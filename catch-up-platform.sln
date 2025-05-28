@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatchUpPlatform.API", "CatchUpPlatform.API\CatchUpPlatform.API.csproj", "{CC6B6C40-51CE-41C6-814C-57478C75E1EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC6B6C40-51CE-41C6-814C-57478C75E1EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC6B6C40-51CE-41C6-814C-57478C75E1EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC6B6C40-51CE-41C6-814C-57478C75E1EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC6B6C40-51CE-41C6-814C-57478C75E1EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
